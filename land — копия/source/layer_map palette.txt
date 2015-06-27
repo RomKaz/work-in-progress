@@ -1,4 +1,0 @@
-R, G, B, Climate, Land type
-97, 165, 22, "Demo-grass-rock-sand", "Grass",
-106, 88, 68, "Demo-grass-rock-sand", "Rock",
-243, 237, 105, "Demo-grass-rock-sand", "Sand",
