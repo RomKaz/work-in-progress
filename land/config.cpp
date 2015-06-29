@@ -14,7 +14,7 @@ class CfgPatches
 		units[] = {"land2"};
 		weapons[] = {};
 		requiredVersion = 1.03;
-		requiredAddons[] = {"Takistan"};
+		requiredAddons[] = {"Utes"};
 		version = "2014-9-1";
 		fileName = "land2.pbo";
 		author = "RomKaz";
@@ -39,12 +39,12 @@ class CfgWorlds
 		};
 	};
 	class DefaultLighting;
-	class Takistan: CAWorld
+	class Utes: CAWorld
 	{
 		class Grid;
 		class DefaultClutter;
 	};
-	class land2: Takistan
+	class land2: Utes
 	{
 		cutscenes[] = {};
 		description = "MyBigMap01";
@@ -73,7 +73,7 @@ class CfgWorlds
 		ilsTaxiIn[] = {5851,11438.5,5342.5,10929.5,5322.5,10925.5,5306.5,10936.5,5269,10974,5261,10991,5264.5,11007.5,5278,11021.5};
 		class SecondaryAirports
 		{
-			class TakistanAirstrip1
+			class UtesAirstrip1
 			{
 				ilsPosition[] = {7718,1598};
 				ilsDirection[] = {-0.866,0.08,-0.5};
